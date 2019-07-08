@@ -25,7 +25,9 @@ Curriculum for Hongyang Song
 
 # TED演讲
 
-# 社团：舞蹈、
+# 社团：舞蹈
+# 周边游计划
+* 伊春
 
 # Resources
 * [MOOC网站](https://www.icourse163.org/)
