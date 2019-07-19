@@ -25,18 +25,10 @@ Curriculum for Hongyang Song
 
 # TED演讲
 
-# 社团：舞蹈
-# 周边游计划
-* 伊春
 
 # Resources
 * [MOOC网站](https://www.icourse163.org/)
-
-# Now i am shabi
-## headline2
-### headline3
-normal text
-* this is a list
+* [Linux系统基础，鸟叔的私房菜](http://linux.vbird.org/)
 
 
 
