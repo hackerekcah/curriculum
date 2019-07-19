@@ -5,3 +5,5 @@
 ```
 Username: songhongyang
 ```
+* [信息学奥赛一本通](http://ybt.ssoier.cn:8088/)
+* [NOI OpenJudge](http://noi.openjudge.cn/)
