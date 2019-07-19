@@ -26,11 +26,16 @@ Curriculum for Hongyang Song
 
 # TED演讲
 
+# 在线编程测试
+* [信息学奥赛一本通](http://ybt.ssoier.cn:8088/)
+* [NOI OpenJudge](http://noi.openjudge.cn/)
+
 
 # Resources
 * [MOOC网站](https://www.icourse163.org/)
 * [Linux系统基础，鸟叔的私房菜，繁体](http://linux.vbird.org/)
 * [鸟叔的私房菜，简体中文](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+
 
 
 
