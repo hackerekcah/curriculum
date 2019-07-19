@@ -8,6 +8,7 @@ Curriculum for Hongyang Song
 ### 数据结构
 * [浙大,数据结构](https://www.icourse163.org/course/ZJU-93001)
 ### 操作系统
+* [Linux开发环境及应用,北邮](https://www.icourse163.org/course/BUPT-1003557006)
 ### 编译原理
 ### 计算机组成原理
 ### 计算机网络
