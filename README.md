@@ -26,9 +26,6 @@ Curriculum for Hongyang Song
 
 # TED演讲
 
-# 在线编程测试
-* [信息学奥赛一本通](http://ybt.ssoier.cn:8088/)
-* [NOI OpenJudge](http://noi.openjudge.cn/)
 
 
 # Resources
