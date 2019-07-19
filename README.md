@@ -29,7 +29,8 @@ Curriculum for Hongyang Song
 
 # Resources
 * [MOOC网站](https://www.icourse163.org/)
-* [Linux系统基础，鸟叔的私房菜](http://linux.vbird.org/)
+* [Linux系统基础，鸟叔的私房菜，繁体](http://linux.vbird.org/)
+* [鸟叔的私房菜，简体中文](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 
 
 
