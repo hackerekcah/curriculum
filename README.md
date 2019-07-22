@@ -32,6 +32,7 @@ Curriculum for Hongyang Song
 * [MOOC网站](https://www.icourse163.org/)
 * [Linux系统基础，鸟叔的私房菜，繁体](http://linux.vbird.org/)
 * [鸟叔的私房菜，简体中文](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+* [Ubuntu桌面入门教程](https://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)
 
 
 
