@@ -16,3 +16,7 @@ email: hongyang.song@qq.com
 ## 比赛
 * codeforces
 * atcoder
+
+## 数学
+* 基本数论
+* 具体数学
